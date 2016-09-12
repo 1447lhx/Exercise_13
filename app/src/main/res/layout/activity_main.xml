@@ -13,15 +13,21 @@
              android:text="Hello World!" />
 
 
-     <Button
+    <Button
 
             android:layout_width="128dp"
            android:layout_height="wrap_content"
-            android:text="item"
+            android:text="item1"
           android:layout_gravity="center_vertical" />
 
+    <Button
 
-        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="item2"
+        android:layout_gravity="center_vertical" />
+
+    <TextView
            android:layout_width="150dp"
           android:layout_height="100dp"
            android:text="layout" />
